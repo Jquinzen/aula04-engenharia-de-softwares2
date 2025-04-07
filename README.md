@@ -4,8 +4,8 @@
 Este projeto é parte da disciplina Engenharia de Software 2, com o objetivo de praticar o versionamento com Git e GitHub em equipe.
 
 ##  Equipe
-- Juan (Líder)
-- Gabriel
+- Juan    (https://github.com/Jquinzen)
+- Gabriel (https://github.com/GabriePiske)
 
 ##  Como rodar
 1. Clone o repositório:
@@ -33,4 +33,4 @@ npm install
 Este projeto foi desenvolvido por Juan e Gabriel para a disciplina Engenharia de Software 2
 
 ## 🗃️ Repositório
-[Link para o GitHub](https://github.com/usuario/repositorio)
+(https://github.com/Jquinzen/Jquinzen-aula04-engenharia-de-software2)
