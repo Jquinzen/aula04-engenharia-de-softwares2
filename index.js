@@ -1,5 +1,5 @@
 const gerarSenha = require('./gerarSenha');
-
+const validarSenha = require('./validarSenha');
 
 // Função adicionada: soma dois números
 function soma(a, b) {
@@ -16,3 +16,6 @@ console.log("Entrada 'teste' válida?:", validarEntrada("teste"));
 
 const senha = gerarSenha(12);
 console.log(`Senha gerada: ${senha}`);
+
+const resultadoValidacao = validarSenha(senha);
+console.log(resultadoValidacao.mensagem);
