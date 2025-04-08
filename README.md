@@ -4,8 +4,8 @@
 Este projeto é parte da disciplina Engenharia de Software 2, com o objetivo de praticar o versionamento com Git e GitHub em equipe.
 
 ##  Equipe
-- Juan    (https://github.com/Jquinzen)
-- Gabriel (https://github.com/GabriePiske)
+- Juan  Quinzen  (https://github.com/Jquinzen)
+- Gabriel piske (https://github.com/GabriePiske)
 
 ##  Como rodar
 1. Clonar o repositório:
@@ -13,12 +13,7 @@ Este projeto é parte da disciplina Engenharia de Software 2, com o objetivo de 
 git clone https://github.com/Jquinzen/aula04-engenharia-de-softwares2
 ```
 
-2. Acessar a pasta:
-```bash
-cd repositorio
-```
-
-3. Instalar as dependências:
+2. Instalar as dependências:
 ```bash
 npm install
 ```
@@ -26,9 +21,9 @@ npm install
 ## 📌 Tarefas realizadas
 | Membro | Tarefa |
 |--------|--------|
-| Juan | Atualização do README.md com créditos |
-| Gabriel | Criação de funções soma() e validarEntrada() |
-| Gabriel |  |
+| Juan | Atualização do README.md e Criação de funções  soma() e validarSenha |
+| Gabriel | Criação de funções  validarEntrada() e função de gerarSenha|
+
 
 
 ##  Créditos
