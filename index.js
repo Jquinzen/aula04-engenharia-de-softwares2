@@ -1,4 +1,6 @@
-"use strict";
+const gerarSenha = require('./gerarSenha');
+
+
 // Função adicionada: soma dois números
 function soma(a, b) {
     return a + b;
@@ -10,3 +12,7 @@ function validarEntrada(valor) {
 // Testes rápidos
 console.log("Resultado da soma(3, 5):", soma(3, 5));
 console.log("Entrada 'teste' válida?:", validarEntrada("teste"));
+
+
+const senha = gerarSenha(12);
+console.log(`Senha gerada: ${senha}`);
