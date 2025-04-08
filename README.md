@@ -8,17 +8,17 @@ Este projeto é parte da disciplina Engenharia de Software 2, com o objetivo de 
 - Gabriel (https://github.com/GabriePiske)
 
 ##  Como rodar
-1. Clone o repositório:
+1. Clonar o repositório:
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/Jquinzen/aula04-engenharia-de-softwares2
 ```
 
-2. Acesse a pasta:
+2. Acessar a pasta:
 ```bash
 cd repositorio
 ```
 
-3. Instale as dependências:
+3. Instalar as dependências:
 ```bash
 npm install
 ```
@@ -28,9 +28,14 @@ npm install
 |--------|--------|
 | Juan | Atualização do README.md com créditos |
 | Gabriel | Criação de funções soma() e validarEntrada() |
+| Gabriel |  |
+
 
 ##  Créditos
 Este projeto foi desenvolvido por Juan e Gabriel para a disciplina Engenharia de Software 2
 
 ## 🗃️ Repositório
-(https://github.com/Jquinzen/Jquinzen-aula04-engenharia-de-software2)
+(https://github.com/Jquinzen/aula04-engenharia-de-softwares2)
+
+
+
